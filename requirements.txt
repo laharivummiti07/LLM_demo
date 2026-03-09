@@ -1,5 +1,5 @@
 #pip install streamlit groq python-dotenv
 
 streamlit 
-gtoq
+groq
 python-dotenv
